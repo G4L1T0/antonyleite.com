@@ -1,0 +1,25 @@
+
+title: Antony Leite
+baseurl: "https://www.antonyleite.com/"
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:title/
+mode: dark
+
+author:
+  name: Antony Leite
+  bio: >-
+    Hi! I’m Antony, better known as G4L1T0, I’m 18 years old, and I'm a cybersecurity intern. I like to play CTF and participate in the Boitatech community. My study is currently focused on web and networks.
+  github: G4L1T0
+  avatar: /assets/img/g4l1t0.png
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+number_of_posts: 5
+
+plugins:
+  - jekyll-feed
