@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /onlypoc/
+title: Services
+permalink: /services/
 ---
 
 <div align='center'>
