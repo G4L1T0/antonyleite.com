@@ -9,3 +9,7 @@
 - title: About
   url: /about/
   external: false
+
+- title: Only POC
+  url: /onlypoc/
+  external: false
