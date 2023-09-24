@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Antony, also known as G4L1T0, I'm 19 years old.
+I'm Antony, also known as G4L1T0, I'm 20 years old.
 
 I completed the Electronics Technician course integrated into high school at the Federal Institute of Brasília. I have the Desec Certified Penetration Tester ([DCPT](https://www.linkedin.com/pulse/dcpt-desec-certified-penetration-tester-ricardo/?originalSubdomain=pt)) certification and I am an active member of the [Boitatech](https://www.boitatech.com.br/) Community, a Brazilian community focused on hacking.
 
